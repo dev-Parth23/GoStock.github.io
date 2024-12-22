@@ -50,9 +50,21 @@ The website will be available at `http://localhost:3000`.
 ## Usage
 
 - **Stock Price Visualization**: The homepage displays real-time stock prices and predictions in an interactive chart.
+
+![image](https://github.com/user-attachments/assets/7f7c9718-2bc9-4015-9a63-cee5b41b2833)  
+  *The Recommendation of the Stock Price Prediction Website*
+
+  ![image](https://github.com/user-attachments/assets/bd6dbc45-74c3-4e33-9d61-3c6fafd39ac3)
+  *The Recommendation of the Stock Price Prediction Website*
+
+  ![image](https://github.com/user-attachments/assets/c166fc30-32c9-4ea3-a585-8f974d7c2ef1)
+  *The News of the Stock Price Prediction Website*
   
-  ![Homepage](./images/homepage-demo.png)  
-  *The homepage of the Stock Price Prediction Website*
+  ![image](https://github.com/user-attachments/assets/d0e5a03b-0019-4a7b-a4b8-626a2c698eee)
+  *The Settings page of the Stock Price Prediction Website*
+
+  ![image](https://github.com/user-attachments/assets/8808790c-70bb-43ef-861f-d7ccdd5aa928)
+  *The Profile page of the Stock Price Prediction Website*
 
 - **KPIs**: Track real-time stock data such as volume, price changes, and trends via dynamic KPIs.
 
