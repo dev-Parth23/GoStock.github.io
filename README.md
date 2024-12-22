@@ -1,6 +1,3 @@
-Here’s the updated `README.md` file with placeholders for images to enhance the documentation. You can replace the image URLs with actual URLs of your images or add images to the repository itself.
-
-```markdown
 # Stock Price Prediction Website
 
 A modern and interactive frontend application for stock price prediction, built with **React**, **TailwindCSS**, and **Chart.js**. This web application allows users to visualize stock price predictions and track real-time Key Performance Indicators (KPIs) through dynamic charts.
