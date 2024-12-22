@@ -2,7 +2,7 @@
 
 A modern and interactive frontend application for stock price prediction, built with **React**, **TailwindCSS**, and **Chart.js**. This web application allows users to visualize stock price predictions and track real-time Key Performance Indicators (KPIs) through dynamic charts.
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/eb951e95-8529-4bd4-ba98-1dd4403674d3)
 
 ## Features
 
@@ -11,7 +11,7 @@ A modern and interactive frontend application for stock price prediction, built 
 - **Responsive Design**: Built with **TailwindCSS** to ensure the website is fully responsive and works on all screen sizes.
 - **Stock Price Prediction**: Predicts future stock prices with an intuitive and user-friendly interface.
 
-![Real-Time Stock Data Chart](./images/stock-chart-demo.png)  
+![image](https://github.com/user-attachments/assets/846844c1-fddc-446a-ad4b-caf721a03cf2)
 *Visualizing real-time stock data using Chart.js*
 
 ## Technologies Used
@@ -19,7 +19,7 @@ A modern and interactive frontend application for stock price prediction, built 
 - **React.js**: JavaScript library for building the user interface.
 - **TailwindCSS**: Utility-first CSS framework for creating custom designs.
 - **Chart.js**: A powerful charting library to display real-time KPIs and stock data.
-- **Axios** (optional for API calls): To fetch real-time stock price data from an external API (if used in the project).
+- **Axios**: To fetch real-time stock price data from an external API (if used in the project).
 
 ## Installation
 
@@ -56,6 +56,6 @@ The website will be available at `http://localhost:3000`.
 
 - **KPIs**: Track real-time stock data such as volume, price changes, and trends via dynamic KPIs.
 
-  ![KPIs Chart](./images/kpi-chart.png)  
+![image](https://github.com/user-attachments/assets/33e84efb-0060-48d5-956e-394486fe4b52)
   *Track KPIs in real-time with interactive charts*
 
