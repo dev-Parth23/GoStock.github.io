@@ -60,35 +60,3 @@ The website will be available at `http://localhost:3000`.
   ![KPIs Chart](./images/kpi-chart.png)  
   *Track KPIs in real-time with interactive charts*
 
-## Contributing
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-name`).
-3. Make your changes and commit (`git commit -am 'Add new feature'`).
-4. Push to your branch (`git push origin feature-name`).
-5. Create a pull request.
-
-## License
-
-This project is licensed under the MIT License.
-
-## Acknowledgements
-
-- **React** - [React Docs](https://reactjs.org/)
-- **TailwindCSS** - [TailwindCSS Docs](https://tailwindcss.com/)
-- **Chart.js** - [Chart.js Docs](https://www.chartjs.org/)
-- **Axios** (if used) - [Axios Docs](https://axios-http.com/)
-
----
-
-Feel free to contact me for any suggestions or improvements!
-```
-
-### Key Notes:
-1. **Images**: Replace the `./images/stock-website-demo.png`, `./images/stock-chart-demo.png`, `./images/homepage-demo.png`, and `./images/kpi-chart.png` with actual images you want to showcase from your project. You can either upload these images to the GitHub repository or use URLs if the images are hosted elsewhere.
-   
-2. **Visuals**: The images will enhance the README by providing a visual context for your project, making it more engaging for visitors.
-
-3. **Image Directory**: Make sure that the images are either placed in a folder named `images` within the project or update the paths accordingly to where the images are stored.
-
-This should give a more comprehensive and visually engaging README for your stock price prediction website. Let me know if you'd like to make any further adjustments!
