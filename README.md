@@ -2,8 +2,7 @@
 
 A modern and interactive frontend application for stock price prediction, built with **React**, **TailwindCSS**, and **Chart.js**. This web application allows users to visualize stock price predictions and track real-time Key Performance Indicators (KPIs) through dynamic charts.
 
-![Stock Price Prediction Website](./images/stock-website-demo.png)  
-*Example of the Stock Price Prediction Website UI*
+![Uploading image.png…]()
 
 ## Features
 
